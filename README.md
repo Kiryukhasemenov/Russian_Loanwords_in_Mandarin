@@ -21,6 +21,11 @@ The repository consists of three folders:
 
 3. [`data`](../../tree/master/data) - the datasets necessary for the previous two studies.
 
+4. [`2021`](../../tree/master/2021) - the code and the datasets for:
+ - comparison of the Russian lexicon in Pidgin and in Putonghua;
+ - comparison of the phonological and morphological transformations of ther Russian lexemes in both idioms.
+
+
 You will find the detailed overviews of the code and data in the `README.md` files in each of the folders.
 
 
