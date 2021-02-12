@@ -2,6 +2,7 @@
 
 | Type        | Filename           | Description  |
 |:-------------:|:-------------:|:-----:|
+| document (.pdf) | [A hard way from fur to Katyusha rockets: does the Russian loanword adaptation in standard Chinese inherit the Russian-Chinese pidgin?](http://ruslang.ru/doc/contact_group/RusContact_BookOfAbstracts_2021.pdf) | The thesis submitted to the [INDIGENOUS LANGUAGES OF RUSSIA IN CONTACT WITH RUSSIAN](http://ruslangcontact.tilda.ws/en) Conference (Moscow/Online, Feb. 11-13, 2021). Pages 81-83 - Russian; Pages 84-86 - English |
 | code (.ipynb) | [Pidgin_VS_Putonghua.ipynb](Pidgin_VS_Putonghua.ipynb) | Study of the connections between the Russian lexemes in Russian-Chinese (aka Kyakhta) Pidgin and in Putonghua. The necessary data are in the `.csv`-files within this folder. |
 | data (.xlsx) |[whole_dataset.xlsx](whole_dataset.xlsx)   | The whole dataset of all the sources in a convenient human-reading form. The corresponding computer-oriented datasets are in the `.csv` format. |
 | data (.csv) | [mand_cen90.csv](mand_cen90.csv) | Dataset of the Chinese Loanword Dictionary - \[Cen, 1990] |
@@ -10,7 +11,6 @@
 | data (.csv) | [pidg_tak_A.csv](pidg_tak_A.csv) | Dataset of the Russian-Chinese Pidgin dictionary A by \[Popova, Takata, 2017] |
 | data (.csv) | [pidg_tak_B.csv](pidg_tak_B.csv) | Dataset of the Russian-Chinese Pidgin dictionary B by \[Popova, Takata, 2017] |
 | data (.csv) | [pidg_perex.csv](pidg_perex.csv) | Dataset of the Russian-Chinese Pidgin dictionary by \[Perekhvalskaya, 2008] |
-| document (.pdf) | [A hard way from fur to Katyusha rockets: does the Russian loanword adaptation in standard Chinese inherit the Russian-Chinese pidgin?](http://ruslang.ru/doc/contact_group/RusContact_BookOfAbstracts_2021.pdf) | The thesis submitted to the [INDIGENOUS LANGUAGES OF RUSSIA IN CONTACT WITH RUSSIAN](http://ruslangcontact.tilda.ws/en) Conference (Moscow/Online, Feb. 11-13, 2021). Pages 81-83 - Russian; Pages 84-86 - English |
 
 ### References:
 
