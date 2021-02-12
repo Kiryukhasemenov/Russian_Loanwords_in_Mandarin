@@ -1,7 +1,7 @@
 # Studies on Russian Loanword Adaptation in Chinese
-### Kirill Semenov, Higher School of Economics - Moscow, 2018-2020
+### Kirill Semenov, Higher School of Economics - Moscow, 2018-2021
 ---
-This is my two year's research on Russian phonetic loanwords in Mandarin Chinese.
+This is my three year's research on Russian phonetic loanwords in Mandarin Chinese and on the Russian lexicon in Russian-Chinese (aka Kyakhta) Pidgin.
 
 The repository consists of three folders:
 1. [`2019`](../../tree/master/2019) - the code for:
@@ -19,12 +19,11 @@ The repository consists of three folders:
   - data of the Russian allomorphy transformations in Chinese ([morphemes](../../tree/master/2020/morphemes)); 
   - comparison of the Chinese word segmentation (CWS) algorithms for the task of the Russian loanword detection - [CWS_algorithms](../../tree/master/2020/CWS_algorithms).
 
-3. [`data`](../../tree/master/data) - the datasets necessary for the previous two studies.
-
-4. [`2021`](../../tree/master/2021) - the code and the datasets for:
+3. [`2021`](../../tree/master/2021) - the code and the datasets for:
  - comparison of the Russian lexicon in Pidgin and in Putonghua;
  - comparison of the phonological and morphological transformations of ther Russian lexemes in both idioms.
 
+4. [`data`](../../tree/master/data) - the datasets necessary for the first two studies.
 
 You will find the detailed overviews of the code and data in the `README.md` files in each of the folders.
 
