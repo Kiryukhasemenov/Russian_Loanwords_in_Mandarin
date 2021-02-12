@@ -14,7 +14,7 @@
 
 ### References:
 
-Cen, Qixiang. 1990. Han yu wai lai ci ci dian \[Chinese loanword dictionary]. Beijing: shang wu yin shu guan.
-Liu, Zhengtan, ред. 1985. Han yu wai lai ci ci dian \[Chinese loanword dictionary]. Di 1 ban. Xianggang : Shanghai: Shang wu yin shu guan Xianggang fen guan ; Shanghai ci shu chu ban she.
-Perekhvalskaya, Elena V. 2008. Russkiye pidzhiny \[Russian pidgins]. Saint-Petersburg: Aleteia.
-Popova, I.F. & Takata, T. 2017. Slovari kyakhtinskogo pidzhina \[Kyakhta pidgin dictionaries]. Moscow: Nauka — Vostochnaya literatura.
+1. Cen, Qixiang. 1990. Han yu wai lai ci ci dian \[Chinese loanword dictionary]. Beijing: shang wu yin shu guan.
+2. Liu, Zhengtan, ред. 1985. Han yu wai lai ci ci dian \[Chinese loanword dictionary]. Di 1 ban. Xianggang : Shanghai: Shang wu yin shu guan Xianggang fen guan ; Shanghai ci shu chu ban she.
+3. Perekhvalskaya, Elena V. 2008. Russkiye pidzhiny \[Russian pidgins]. Saint-Petersburg: Aleteia.
+4. Popova, I.F. & Takata, T. 2017. Slovari kyakhtinskogo pidzhina \[Kyakhta pidgin dictionaries]. Moscow: Nauka — Vostochnaya literatura.
